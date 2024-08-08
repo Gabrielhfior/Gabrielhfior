@@ -1,4 +1,4 @@
-- Sou Editor de Vídeos e Beatmaker
+- vid and beat maker
 - chillin'   
 
 me respeita ai
