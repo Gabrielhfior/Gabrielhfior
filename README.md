@@ -1,6 +1,10 @@
-- Sou iniciante em programação e estou atualmente aprendendo Python, focando no desenvolvimento da lógica e na construção de pequenos projetos para praticar.
-- Estou em constante evolução e meu objetivo é melhorar minhas habilidades em programação, principalmente na parte de lógica e resolução de problemas, antes de avançar para tópicos mais complexos.
-- Também sou editor de vídeos e beatmaker 
+Sou iniciante em programação e atualmente estou aprendendo Python, com foco no desenvolvimento da lógica de programação e na criação de pequenos projetos práticos.
+
+Estou em constante evolução e utilizo esses projetos para treinar resolução de problemas, estruturas de controle e construção de aplicações simples.
+
+Meu objetivo é fortalecer minha base em lógica e programação antes de avançar para tópicos mais complexos e desenvolvimento de sistemas maiores.
+
+Também atuo como editor de vídeos e beatmaker, unindo criatividade e tecnologia nos meus projetos.
 
   
 <!---
